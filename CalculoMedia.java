@@ -13,7 +13,7 @@ public class CalculoMedia {
 
         double media = (nota1 + nota2 + nota3) / 3;
 
-        System.out.printf("A média final é: ", media);
+        System.out.printf("A média final é: ", media); 
 
         if (media < 4.0) {
             System.out.println("Reprovado");
